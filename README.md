@@ -1,7 +1,9 @@
 #### 👋 Hi, I’m Nate Nguyen
 #### I’m interested in Big Data, Machine Learning, and Deep Learning topics.
 
+<!---
 ![GitHub followers](https://img.shields.io/github/followers/naternguyen?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/naternguyen?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=naternguyen.repoName) <img src="https://komarev.com/ghpvc/?username=naternguyen" alt="naternguyen" />
+--->
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
