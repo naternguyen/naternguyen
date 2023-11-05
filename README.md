@@ -25,21 +25,21 @@
 
 <a href="https://github.com/naternguyen/RTFER">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=RTFER&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=naternguyen&repo=RTFER&theme=gruvbox" />
 </a>  
 
 <a href="https://github.com/naternguyen/Unet-Segmentation">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Unet-Segmentation&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=naternguyen&repo=Unet-Segmentation&theme=radical" />
 </a>
 
 <a href="https://github.com/naternguyen/ai_math_tutor">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=ai_math_tutor&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=naternguyen&repo=ai_math_tutor&theme=merko" />
 </a>   
 <a href="https://github.com/naternguyen/natequeen.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=natequeen.github.io&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=naternguyen&repo=natequeen.github.io&theme=cobalt" />
 </a>
 
 
