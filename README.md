@@ -19,7 +19,7 @@
 
 <be>
 
-[![naternguyen GitHub stats](https://github-readme-stats.vercel.app/api?username=naternguyen&theme=algolia)](https://github.com/naternguyen/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naternguyen&theme=algolia)](https://github.com/naternguyen/github-readme-stats) [![naternguyen stats](https://github-readme-stats.vercel.app/api/wakatime?username=naternguyen&theme=algolia)](https://github.com/naternguyen/github-readme-stats)
+[![naternguyen GitHub stats](https://github-readme-stats.vercel.app/api?username=naternguyen&theme=algolia)](https://github.com/naternguyen/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naternguyen&theme=algolia)](https://github.com/naternguyen/github-readme-stats)
 
 <be>
 
